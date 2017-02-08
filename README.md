@@ -29,3 +29,7 @@ You can take any open space on the board. This will create a new piece on the bo
 
 #### Raid
 From any space you occupy on the board, you can take the one next to it (up, down, left, right, but not diagonally) if it is unoccupied. The space you originally held is still occupied. Thus, you get to create a new piece in the raided square. Any enemy touching the square you have taken is conquered and that square is turned to your side (you turn its piece to your side). A Raid can be done even if it will not conquer another piece. Once you have made this move, your turn is over.
+
+======================
+
+This program implements Min-Max Algorithm and Alpha-Beta Algorithm
