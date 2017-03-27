@@ -1,4 +1,4 @@
-#Game Intelligence Using Adversarial Search
+# Game Intelligence Using Adversarial Search
 Once upon a time, Los Angeles was a Never Never Land. People were blissfully happy, Conan O'Brien was still on late-night, and no one knew who “the Real Housewives of New Jersey” were. Until the day that two violent, money-thirsty gangs decided to put their dirty hands onto Los Angeles.
 One gang was from the north, and the other gang was from the south. Both wanted to take over the entire city. Therefore, war was unavoidable. To win the war, the leader of the south gang knew that he needed not mere foot troops, but admirals. Therefore, he built an institute to train his future admirals. He named his training institute CSCI-561, and asked his recruits to create artificial agents to engage in a combat simulation, which he called a 'game', meant to imitate the upcoming gang war.
 (Once the members are finished, the leader will classify their research and pull them from the institute, leaving them fractured and bitter human beings. However, as they do not know this yet, they are full of excitement and zeal for the project.)
